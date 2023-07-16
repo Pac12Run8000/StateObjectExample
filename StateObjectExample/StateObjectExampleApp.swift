@@ -2,7 +2,7 @@
 //  StateObjectExampleApp.swift
 //  StateObjectExample
 //
-//  Created by Michelle Grover on 7/16/23.
+//  Created by Norbert Grover on 7/16/23.
 //
 
 import SwiftUI
